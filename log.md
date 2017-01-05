@@ -8,3 +8,20 @@
 **Link to work:** [codecademy](http://www.codecademy.com)
 		  [git-scm.com](http://git-scm.com)
 
+### Day 1: January 4, 2017 
+**Today's Progress**: continuing html and css 1 on codecademy
+**Thoughts:**: I very much enjoyed learning CSS.
+
+**Link to work:** [codecademy](https://www.codecademy.com/en/courses/learn-html-css)
+s
+
+
+
+
+
+
+
+
+
+
+
